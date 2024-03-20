@@ -3,9 +3,9 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=selvberkay&label=Profile%20views&color=0e75b6&style=flat" alt="selvberkay" /> </p>
 
-- 🔭 Kendimi daha da geliştirmek adına sürekli örnek projelerden esinlenerek **html,css,javascript kullanarak projeler geliştiriyorum.**
+- 🔭 Kendimi daha da geliştirmek adına sürekli örnek projelerden esinlenerek projeler geliştirmeye devam ediyorum**
 
-- 🌱 Şu anda aktif olarak **React öğreniyorum.**
+- 🌱 Şu anda aktif olarak **React/React Native öğreniyorum.**
 
 
 <h3 align="left">Languages and Tools:</h3>
